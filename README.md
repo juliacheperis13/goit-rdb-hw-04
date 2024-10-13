@@ -274,4 +274,4 @@ SELECT * FROM customers;
   LIMIT 4 OFFSET 1
     ```
 
-    ![Task 7 p2](./images/Task-4-7.png)
+ ![Task 4 p7](./images/Task-4-7.png)
